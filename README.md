@@ -1,2 +1,2 @@
 # JavaScript-for-LWC
-This repository contains sample codes for a beginner to learn JavaScript from Salesforce LWC perspective.
+This folder will provide you with a short set of codes including some explanations required to get an idea about JavaScript required to learn LWC.
